@@ -6,3 +6,4 @@ To Dos:
 - Create a secure login exchange.
 - Extend capabilities to operate as a file server as well.
 - Encrypt traffic.
+- Use a better header system.
