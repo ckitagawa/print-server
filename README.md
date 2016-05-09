@@ -1,5 +1,5 @@
 # print-server
-A socket server that prints files sent to it. 
+A C-based TCP socket server that prints files sent to it. 
 
 To Dos:
 
